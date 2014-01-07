@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = BetrFoldrs;
+	cell = PSLinkCell;
+	detail = BetrFoldrsListController;
+	icon = BetrFoldrs.png;
+	isController = 1;
+	label = BetrFoldrs;
+    };
+}
