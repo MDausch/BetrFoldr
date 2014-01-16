@@ -1,3 +1,4 @@
+ARCHS := armv6 arm64
 include theos/makefiles/common.mk
 
 TWEAK_NAME = BetrFoldr
