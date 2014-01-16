@@ -9,7 +9,10 @@ static BOOL ClearbgisEnabled = NO; // Default value
 		{
 		return YES;
 		}
+		else 
+		{
 		return NO;
+		}
 }
 %end
 
@@ -20,7 +23,10 @@ static BOOL ClearbgisEnabled = NO; // Default value
 	{
 	return YES;
 	}
+	else
+	{
 	return NO;
+	}
 }
 %end
 
@@ -31,7 +37,10 @@ static BOOL ClearbgisEnabled = NO; // Default value
 	{
 	return NO;
 	}
+	else
+	{
 	return YES;
+	}
 }
 %end
 
