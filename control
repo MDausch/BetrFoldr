@@ -1,7 +1,7 @@
 Package: com.uknl.betrfoldr
 Name: Betr Foldr
 Depends: mobilesubstrate
-Version: 1.0
+Version: 2.1
 Architecture: iphoneos-arm
 Description: Control your folders! Change folder blur, enable pinch to close, and enable nested folders.
 Maintainer: Max Dausch
