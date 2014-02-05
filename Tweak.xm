@@ -30,7 +30,7 @@ static BOOL ClearbgisEnabled = NO; // Default value
 }
 %end
 
-%hook SBFolderSettings;
+%hook SBFolderSettings
 - (BOOL)blurFolderBackground
 {
 	if(ClearbgisEnabled)
